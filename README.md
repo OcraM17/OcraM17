@@ -13,7 +13,7 @@ I'm Marco! a final year Ph.D. Student @ University of Pavia, Italy 🇮🇹
 - 📫 How to reach me: cotogni@proton.me
 - 🐱 I love animals and in particular I have a kitten called Amelie
 - 😄 Pronouns: He/Him
-- 🕵🏻‍♂️ Here you can find more about me [OcraM17.github.io](OcraM17.github.io)
+- 🕵🏻‍♂️ Here you can find more about me [OcraM17.github.io](https://OcraM17.github.io)
 <!--
 **OcraM17/OcraM17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
