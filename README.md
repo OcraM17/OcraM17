@@ -5,11 +5,10 @@
 [![Proton](https://img.shields.io/badge/ProtonMail-9B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](cotogni@proton.me)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-007AB5?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=8PUz5lAAAAAJ&hl=it)
 
-I'm Marco! a final year Ph.D. Student @ University of Pavia, Italy 🇮🇹
+I'm Marco! an Artificial Intelligence Researcher @ Leonardo and a final year Ph.D. Student @ University of Pavia, Italy 🇮🇹
 
 - 🔭 I’m currently working on Image Enhancement 🖼️, Continual Learning 🔁 and Deep Learning for Computational Photography applications 📸 
 - 🏠 I'm currently based in Pavia, Italy 🇮🇹. I lived in Barcelona, Spain 🇪🇸 and Ljubljana, Slovenia 🇸🇮 
-- 🤔 I’m looking for Computer Vision work position and internshsip!
 - 📫 How to reach me: cotogni@proton.me
 - 🐱 I love animals and in particular I have a kitten called Amelie
 - 😄 Pronouns: He/Him
