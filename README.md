@@ -5,8 +5,7 @@
 [![Proton](https://img.shields.io/badge/ProtonMail-9B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](cotogni@proton.me)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-007AB5?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=8PUz5lAAAAAJ&hl=it)
 
-I'm Marco! a Research Scientist @ Leonardo and a final year Ph.D. Student @ University of Pavia, Italy 🇮🇹
-
+I'm Marco! an Italian Research Scientist 🇮🇹
 - 🔭 I’m currently working on Image Enhancement 🖼️, Continual Learning 🔁 ,Deep Learning for Computational Photography applications 📸 and Privacy-Preserving Machine Learning.
 - 🏠 I'm currently based in Pavia, Italy 🇮🇹. I lived in Barcelona, Spain 🇪🇸 and Ljubljana, Slovenia 🇸🇮 
 - 📫 How to reach me: cotogni@proton.me
